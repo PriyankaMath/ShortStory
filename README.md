@@ -1,10 +1,11 @@
 # Unsupervised Translation of Programming Languages
 
-![image](https://user-images.githubusercontent.com/21059586/144098657-8a0e289c-ff53-4af6-8ba7-f2d81d86cb4c.png)
 
 Medium article: https://medium.com/@priyanka.math/unsupervised-translation-of-programming-languages-9d538c64096f
 
 SlideShare Link: https://www.slideshare.net/PriyaM781673/trans-coder
+
+![image](https://user-images.githubusercontent.com/21059586/144098657-8a0e289c-ff53-4af6-8ba7-f2d81d86cb4c.png)
 
 ![image](https://user-images.githubusercontent.com/21059586/144098139-2de939b5-0c42-48b7-a75a-0040c1ebbafa.png)
 
