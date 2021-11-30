@@ -76,6 +76,7 @@ Example of unsupervised translation from Python to C++:
 ![image](https://user-images.githubusercontent.com/21059586/144099798-c2ded334-837f-4a33-99ce-3c2ab370ea3b.png)
 
 Example of failed ‘TransCoder’ translations:
+
 ![image](https://user-images.githubusercontent.com/21059586/144099867-4c1bfc7b-18e9-49ab-9b27-2500f90b2b7b.png)
 
 References:
