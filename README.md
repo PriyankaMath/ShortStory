@@ -66,6 +66,7 @@ GeeksforGeeks is an online platform with computer science and programming articl
 ![image](https://user-images.githubusercontent.com/21059586/144099685-02dcf32d-2a2c-4a15-8164-a31c2cff978c.png)
 
 Analysis of results:
+
 •	TransCoder successfully understands the syntax specific to each language, learns data structures and their methods, and correctly aligns libraries across programming languages. For instance, it learns to translate the ternary operator “X ? A : B” in C++ or Java to “if X then A else B” in Python, in an unsupervised way. 
 
 •	TransCoder successfully map tokens with similar meaning to the same latent representation, regardless of their languages.
