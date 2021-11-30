@@ -3,6 +3,8 @@
 
 Medium article: https://medium.com/@priyanka.math/unsupervised-translation-of-programming-languages-9d538c64096f
 
+YouTube Link: https://youtu.be/hvico_hPHD4
+
 SlideShare Link: https://www.slideshare.net/PriyaM781673/trans-coder
 
 ![image](https://user-images.githubusercontent.com/21059586/144098657-8a0e289c-ff53-4af6-8ba7-f2d81d86cb4c.png)
